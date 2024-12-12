@@ -1,6 +1,3 @@
-# Bengaluru-House-Price-Prediction-Tool
-Project Exhibition-1
-
 # Bangalore-Housing-Price-Prediction
 
 ![ML](https://img.shields.io/badge/ML-Regression-blue.svg) 
